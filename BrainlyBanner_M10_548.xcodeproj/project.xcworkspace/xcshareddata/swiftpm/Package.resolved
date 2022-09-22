@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "fmdb",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maddapper/fmdb.git",
+      "state" : {
+        "revision" : "63c280a0af32136fffc0189e38badae3c1b0f5d8",
+        "version" : "2.7.6"
+      }
+    },
+    {
+      "identity" : "spm-freestarads-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://gitlab.com/freestar/spm-freestarads-core.git",
+      "state" : {
+        "revision" : "dedfe73ab51a19e5f329d66b41f2420cf6d792b3",
+        "version" : "5.14.0"
+      }
+    },
+    {
+      "identity" : "spm-freestarads-tam",
+      "kind" : "remoteSourceControl",
+      "location" : "https://gitlab.com/freestar/spm-freestarads-tam.git",
+      "state" : {
+        "revision" : "b3573f0002eb7aa413ed2233fea92317adda1b51",
+        "version" : "4.4.3"
+      }
+    }
+  ],
+  "version" : 2
+}
